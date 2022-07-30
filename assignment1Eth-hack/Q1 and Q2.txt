@@ -1,0 +1,19 @@
+Ahmed Hesham Mohamed
+
+*Q1*
+
+1)
+output= false
+
+2) 
+'list'
+
+
+*Q2*
+
+1- return [x,y,z]      
+
+2-  def sum(x):
+        def sum2(y):
+            return x+y
+        return sum2
